@@ -83,7 +83,7 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end, fro
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,java,php,spring,laravel,django,flask&perline=14" alt="Languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch,redis,docker,aws,nginx,githubactions,jenkins,cloudflare,wordpress&perline=14" alt="Data and DevOps">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch,redis,docker,aws,nginx,githubactions,jenkins,cloudflare,wordpress,git,bootstrap&perline=14" alt="Data and DevOps">
 </p>
 
 <p align="center">
