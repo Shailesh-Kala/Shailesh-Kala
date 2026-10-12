@@ -22,7 +22,6 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end, fro
     <td align="center"><h3>643</h3><sub>merged PRs</sub></td>
     <td align="center"><h3>672</h3><sub>PRs reviewed</sub></td>
     <td align="center"><h3>22</h3><sub>repositories</sub></td>
-    <td align="center"><h3>37,000+</h3><sub>schools reached</sub></td>
   </tr>
 </table>
 
@@ -55,7 +54,7 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end, fro
     <td width="50%" valign="top">
       <h3>🧠 VallamAI</h3>
       <sub><b>Madhi Foundation · Lead Engineer</b></sub>
-      <p>An AI assessment and lesson-planning platform for <b>37,000+ Tamil Nadu government schools</b>. It has a provider-agnostic LangChain core (OpenAI ↔ Claude by config), a multi-agent lesson-plan generator, RAG with a custom MCP server, and Langfuse evaluations.</p>
+      <p>An AI assessment and lesson-planning platform built for a foundation working across <b>37,000+ Tamil Nadu government schools</b>. It has a provider-agnostic LangChain core (OpenAI ↔ Claude by config), a multi-agent lesson-plan generator, RAG with a custom MCP server, and Langfuse evaluations.</p>
       <code>LangChain</code> <code>Claude</code> <code>OpenAI</code> <code>RAG</code> <code>MCP</code> <code>React Native</code>
     </td>
     <td width="50%" valign="top">
