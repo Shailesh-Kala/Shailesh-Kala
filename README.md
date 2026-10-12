@@ -2,15 +2,15 @@
 
 # Hi, I'm Shailesh Kala <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px">
 
-**Software Engineer · Tech Lead · AI/LLM Engineering**
+**Full-Stack Engineer · Tech Lead · AI/LLM Engineering**
 
-I build AI-powered, multi-tenant, and government-scale platforms end to end.
+I build AI-powered, multi-tenant, and government-scale platforms end to end, from React and Node.js apps to production LLM systems.
 
 <a href="https://shailesh-kala.github.io"><img src="https://img.shields.io/badge/Portfolio-shailesh--kala.github.io-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://linkedin.com/in/shailesh-kala-142954182"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:shaileshkala00@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-🟢 **Open to new roles** in AI/LLM engineering and full-stack tech leadership
+🟢 **Open to new roles** in full-stack (React, Node.js) and AI/LLM engineering
 
 </div>
 
@@ -29,6 +29,7 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end.
 ## 👨‍💻 About me
 
 - **Tech Lead / Lead Engineer at [ColoredCow](https://coloredcow.com)** (2022 – 2026) on five flagship engagements across government, non-profit, and commercial platforms
+- Building **full-stack products with React.js, Node.js, and Express.js**: REST APIs, onboarding flows, and admin portals
 - Shipping **production LLM systems**: provider-agnostic LangChain cores (OpenAI ↔ Claude), multi-agent pipelines, RAG, MCP, and Langfuse-based evaluation
 - Integrated two national platforms and **migrated 3,000+ users with zero downtime**
 - I review code as carefully as I write it: **672 PRs reviewed** for teammates
@@ -38,30 +39,30 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 VallamAI</h3>
-      <sub><b>Madhi Foundation · Lead Engineer</b></sub>
-      <p>An AI assessment and lesson-planning platform for <b>37,000+ Tamil Nadu government schools</b>. It runs on a provider-agnostic LangChain core, so OpenAI and Claude are swappable by config. It also includes a multi-agent lesson-plan generator, RAG with a custom MCP server, and Langfuse evaluations.</p>
-      <code>LangChain</code> <code>Claude</code> <code>OpenAI</code> <code>RAG</code> <code>MCP</code> <code>Django</code> <code>React Native</code>
+      <h3>🎓 WisdomCircle</h3>
+      <sub><b>Second-career platform · Tech Lead</b></sub>
+      <p>A platform connecting seasoned professionals with organisations. I built the <b>business onboarding flow</b>, an end-to-end <b>university mentorship programme</b>, and REST APIs for applications, candidates, and admin. I also led the <b>Singapore expansion</b> and started test automation.</p>
+      <code>React.js</code> <code>Node.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>MongoDB</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ PMG Portal</h3>
-      <sub><b>Invest India / DPIIT · Tech Lead</b></sub>
-      <p>The Government of India's platform for unblocking ₹500 crore+ infrastructure projects. I led the IIG–PMG integration, which migrated <b>3,000+ users with zero downtime</b>, and built Keycloak SSO and a six-role permission model. <a href="https://coloredcow.com/work/coloredcow-moves-pm-gati-shakti-initiative-forward/">Case study →</a></p>
-      <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Elasticsearch</code> <code>Keycloak</code>
+      <h3>🤝 AI Student & Facilitator Communities</h3>
+      <sub><b>Shashwat Foundation · Built solo</b></sub>
+      <p>Two community platforms built <b>end to end on the MERN stack</b>: React frontend, Node/Express REST APIs, and a MongoDB data layer. Both are live: <a href="https://aistudent.community">aistudent.community</a> · <a href="https://aifacilitator.community">aifacilitator.community</a></p>
+      <code>MongoDB</code> <code>Express.js</code> <code>React.js</code> <code>Node.js</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌳 SankalpTaru</h3>
-      <sub><b>SankalpTaru Foundation · Tech Lead, 2.5+ yrs</b></sub>
-      <p>A tree-plantation donation platform covering the storefront, backend, admin, and field app. I delivered two e-commerce revamps, added Redis + CDN, and used k6 load testing to fix a bottleneck so the platform held up at <b>4x concurrency</b>.</p>
-      <code>Laravel</code> <code>WordPress</code> <code>React Native</code> <code>Redis</code> <code>k6</code>
+      <h3>🧠 VallamAI</h3>
+      <sub><b>Madhi Foundation · Lead Engineer</b></sub>
+      <p>An AI assessment and lesson-planning platform for <b>37,000+ Tamil Nadu government schools</b>. It has a provider-agnostic LangChain core (OpenAI ↔ Claude by config), a multi-agent lesson-plan generator, RAG with a custom MCP server, and Langfuse evaluations.</p>
+      <code>LangChain</code> <code>Claude</code> <code>OpenAI</code> <code>RAG</code> <code>MCP</code> <code>React Native</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🗂️ Unos y Otros</h3>
-      <sub><b>2HMG · Tech Lead</b></sub>
-      <p>A cigar collection and humidor platform I took from an <b>empty repo to v1.6.0</b> with a nine-person team. It has an AI-generated reference database, collection management, and role-based access.</p>
-      <code>Laravel</code> <code>OpenAI</code> <code>Sanctum</code>
+      <h3>🏛️ PMG Portal</h3>
+      <sub><b>Invest India / DPIIT · Tech Lead</b></sub>
+      <p>The Government of India's platform for unblocking ₹500 crore+ infrastructure projects. I led the IIG–PMG integration, which migrated <b>3,000+ users with zero downtime</b>, and built Keycloak SSO. <a href="https://coloredcow.com/work/coloredcow-moves-pm-gati-shakti-initiative-forward/">Case study →</a></p>
+      <code>Java</code> <code>Spring Boot</code> <code>React</code> <code>Elasticsearch</code> <code>Keycloak</code>
     </td>
   </tr>
 </table>
@@ -70,8 +71,8 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end.
 <summary><b>More projects</b></summary>
 <br>
 
-- **[AI Student Community](https://aistudent.community)**: two MERN community platforms for Shashwat Foundation, each built solo
-- **WisdomCircle**: second-career platform; I led the Singapore expansion and started test automation
+- **SankalpTaru**: tree-plantation donation platform (Laravel, WordPress, React Native); delivered two e-commerce revamps and fixed a bottleneck so it held up at 4x concurrency
+- **Unos y Otros**: cigar collection platform (Laravel + OpenAI), taken from an empty repo to v1.6.0
 - **SRG Profiler**: assessment platform with multi-tenant scoping, a scoring engine, and reports
 - **I4F Portal**: India–Israel Industrial R&D Fund partnership workflows and partner search API
 - **Swataleem · Gramhal**: campaign dashboard and agri-tech tooling, including contributions to Flask Admin
@@ -81,8 +82,8 @@ I build AI-powered, multi-tenant, and government-scale platforms end to end.
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,react,nextjs,nodejs,express,spring,laravel,django,flask&perline=12" alt="Languages and frameworks"><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch,redis,docker,aws,nginx,githubactions,jenkins,cloudflare,wordpress&perline=12" alt="Data and DevOps">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,python,java,php,spring,laravel,django,flask&perline=14" alt="Languages and frameworks"><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch,redis,docker,aws,nginx,githubactions,jenkins,cloudflare,wordpress,git,bootstrap&perline=14" alt="Data and DevOps">
 </p>
 
 <p align="center">
